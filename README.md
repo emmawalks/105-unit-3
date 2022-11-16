@@ -27,3 +27,6 @@ This data subset gives data on the 17 highest scoring food index counties in the
 # Using the data
 
 After following the tutorial, people should be able to replicate this process to study other contributors of food security or other affected counties or regions.  
+
+# Contact
+If you have questions or are having trouble understanding instructional information please contact me at emmawalks12@gmail.com
