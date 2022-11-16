@@ -6,7 +6,7 @@ The repository consists of four python notebooks. Three explain how to use the P
 
 # Where is this data from
 
-The materials have been adapted from the excellent lessons created by the staff at the Research Hub of UNC’s Davis Library [] and a County Public Health Dataset [] 
+The materials have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC’s Davis Library.
 
 The County Public Health Dataset provides tabular data on a variety of health-related issues in all US counties.  
 
