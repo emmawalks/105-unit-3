@@ -2,7 +2,7 @@
 
 This is a repository containing instructional materials and datasets for Prof. Gotzler’s fall 2022 004 section of ENGL-105 at the University of Carolina, Chapel Hill.  
 
-The repository consists of four python notebooks. Three explain how to use the Pandas package for data analysis with basic coding and markdown tools. One outlines step by step instructions on how to create your own subset of data from a larger database.   
+The repository consists of multiple python notebooks. Some explain how to use the Pandas package for data analysis with basic coding and markdown tools. One outlines step by step instructions on how to create your own subset of data from a larger database. 
 
 # Where is this data from
 
