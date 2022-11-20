@@ -25,7 +25,18 @@ This data is used to analyze the contributors of food security in Florida counti
 This data subset gives data on the 17 highest scoring food index counties in the state of Florida.  
 
 # A visual demonstration comparing the standard food environment index to the real food environment indexes in Florida counties
+
+
+Food environment indexes are given on a scale of 0-10.
+
+0 corresponds to the worst scoring, and 10 corresponds to the best scoring.
+
+The standard food environment index is 8. 
+
 ![alt-text](/data/foodvis.jpg)
+
+
+
 
 # Using the data
 
