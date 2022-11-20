@@ -37,6 +37,7 @@ The standard food environment index is 8.
 
 ## Here is a side by side visual comparing counties food environment indexes (from lowest to highest) to their median household incomes. 
 
+
 ![alt-text](/data/incomevis.jpg)
 
 
