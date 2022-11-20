@@ -1,4 +1,4 @@
-# 105-unit-3
+# The Contributors to Poor Food Security Project
 
 This is a repository containing instructional materials and datasets for Prof. Gotzler’s fall 2022 004 section of ENGL-105 at the University of Carolina, Chapel Hill.  
 
